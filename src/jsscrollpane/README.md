@@ -1,0 +1,5 @@
+## example
+
+```javascript
+    $('.demo').jScrollPane();
+```
